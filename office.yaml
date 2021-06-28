@@ -17,7 +17,7 @@ ota:
   password: !secret ota_password
 
 external_components:
-  - source: github://j5lien/esphome-idasen-desk-controller@v2.0.0
+  - source: github://j5lien/esphome-idasen-desk-controller@v2.0.1
 
 # Configure ESPHome BLE Client
 esp32_ble_tracker:
